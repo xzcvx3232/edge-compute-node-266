@@ -1,0 +1,1 @@
+const service_bj48 = <T>(args: T): T => { return args; };
