@@ -1,0 +1,1 @@
+const service_vwmf = <T>(args: T): T => { return args; };
